@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\jonmc\\AndroidStudioProjects\\Android-ItemTouchHelper-Demo\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\jonmc\\AndroidStudioProjects\\Android-ItemTouchHelper-Demo\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 57,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 44,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\jonmc\\AndroidStudioProjects\\Android-ItemTouchHelper-Demo\\app\\src\\main\\res\\values-w820dp\\integers.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 44,
+                        "endOffset": 728
+                    }
+                }
+            }
+        ]
+    }
+]
